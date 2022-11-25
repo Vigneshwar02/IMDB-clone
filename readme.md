@@ -1,4 +1,4 @@
-# Shopping Cart
+# IMDB clone
 
 An imdb clone where the user is able to search, view , add and delete movies. The user can view details regarding the title of the movie, year of release, producer/director and some of the main actors. In the Home screen the user is able to only view and search the movies in the database, In the liting screen the user can search for any movie they wish to update, delete or just find and Finally the in the add section the user is able to Add new movies to the database
 
